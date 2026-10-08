@@ -1,4 +1,4 @@
-# Lens & Light — Professional Photography Portfolio
+# Lens & Light -Professional Photography Portfolio
 
 A modern, responsive web portfolio built with HTML5, CSS3, and JavaScript, designed to showcase high-resolution photography collections across multiple disciplines including portrait, landscape, wedding, and street photography.
 
